@@ -1,0 +1,15 @@
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.exe.config
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.exe
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.pdb
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.exe
+D:\R52\M2\Projects\9\Exam03Project\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.pdb
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.exe.config
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.exe
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\bin\Debug\Exam03Project_Method.pdb
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.csproj.AssemblyReference.cache
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.exe
+C:\Users\LAB104-08\Desktop\Exam03Project_1270590\Exam03Project_Method\obj\Debug\Exam03Project_Method.pdb
